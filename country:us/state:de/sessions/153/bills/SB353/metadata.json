@@ -43,6 +43,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:13Z"
       }
+    },
+    {
+      "description": "Motion to Suspend Rules in Senate by Vote: 6 YES 15 NO. Reason Taken: Motion to Suspend Rules to consider SB 353",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-22T07:21:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -81,7 +91,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:13Z",
+    "logs_latest_update": "2026-07-22T07:21:47Z",
     "text_extraction_latest_update": "2026-07-21T19:04:34.146402Z"
   }
 }
