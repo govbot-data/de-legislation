@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Defeated By Senate. Votes: 6 YES 15 NO. Reason Taken: Motion to Suspend Rules to Consider SB 353",
+    "occurred_at": "2026-07-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143681",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 353"
+}
