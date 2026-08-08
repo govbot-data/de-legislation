@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Enact w/o Sign by Governor",
+    "occurred_at": "2026-08-05",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143439",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 462"
+}

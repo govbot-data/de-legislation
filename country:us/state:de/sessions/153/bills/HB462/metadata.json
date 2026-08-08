@@ -215,6 +215,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:12Z"
       }
+    },
+    {
+      "description": "Enact w/o Sign by Governor",
+      "date": "2026-08-05",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-08T05:52:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -345,7 +355,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:12Z",
+    "logs_latest_update": "2026-08-08T05:52:38Z",
     "text_extraction_latest_update": "2026-08-07T13:12:00.619627Z"
   }
 }
