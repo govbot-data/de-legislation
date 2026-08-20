@@ -131,6 +131,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:12Z"
       }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T05:49:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -242,7 +254,16 @@
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "The Laws of Delaware",
+      "citation": "Volume 85 Chapter 430",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "https://legis.delaware.gov/BillDetail?LegislationId=143628",
@@ -260,7 +281,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:12Z",
+    "logs_latest_update": "2026-08-20T05:49:02Z",
     "text_extraction_latest_update": "2026-07-21T19:05:14.633159Z"
   }
 }
