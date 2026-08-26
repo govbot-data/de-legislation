@@ -24,118 +24,7 @@
       "identifier": "ocd-bill-de-153-hb383"
     }
   ],
-  "actions": [
-    {
-      "description": "Adopted in lieu of the original bill HB 383, and Assigned to Administration Committee in House",
-      "date": "2026-05-12",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "introduction",
-        "referral-committee"
-      ],
-      "related_entities": [
-        {
-          "name": "Administration",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:12Z"
-      }
-    },
-    {
-      "description": "Reported Out of Committee (Administration) in House with 5 On Its Merits",
-      "date": "2026-05-13",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [
-        {
-          "name": "Administration",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:12Z"
-      }
-    },
-    {
-      "description": "Passed By House. Votes: 33 YES 5 NO 3 ABSENT",
-      "date": "2026-05-21",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:12Z"
-      }
-    },
-    {
-      "description": "Assigned to Environment, Energy & Transportation Committee in Senate",
-      "date": "2026-05-21",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "introduction",
-        "referral-committee"
-      ],
-      "related_entities": [
-        {
-          "name": "Environment, Energy & Transportation",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:12Z"
-      }
-    },
-    {
-      "description": "Reported Out of Committee (Environment, Energy & Transportation) in Senate with 5 On Its Merits",
-      "date": "2026-06-10",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [
-        {
-          "name": "Environment, Energy & Transportation",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:12Z"
-      }
-    },
-    {
-      "description": "Passed By Senate. Votes: 21 YES",
-      "date": "2026-06-17",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:12Z"
-      }
-    },
-    {
-      "description": "Signed by Governor",
-      "date": "2026-08-17",
-      "organization_id": "~{\"classification\": \"executive\"}",
-      "classification": [
-        "executive-signature"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-20T05:49:02Z"
-      }
-    }
-  ],
+  "actions": [],
   "sponsorships": [
     {
       "name": "William J. Carson",
@@ -355,7 +244,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143265&legislationTypeId=6&docTypeId=2&legislationName=HS1forHB383",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143265&legislationTypeId=6&docTypeId=2&legislationName=HS1forHB383",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [
     {
       "note": "Fiscal Note",
@@ -395,7 +300,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-20T05:49:02Z",
+    "logs_latest_update": "2026-08-26T05:50:59Z",
     "text_extraction_latest_update": "2026-08-25T12:53:50.735994Z"
   }
 }
