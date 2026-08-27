@@ -24,7 +24,30 @@
       "identifier": "ocd-bill-de-153-hb211"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T16:11:30Z"
+      }
+    },
+    {
+      "description": "Out of Committee",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T16:11:30Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "William Bush",
@@ -44,7 +67,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143680&legislationTypeId=6&docTypeId=2&legislationName=HS1forHB211",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143680&legislationTypeId=6&docTypeId=2&legislationName=HS1forHB211",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -63,7 +102,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T07:29:08Z",
+    "logs_latest_update": "2026-08-27T16:11:30Z",
     "text_extraction_latest_update": "2026-08-26T12:59:14.234668Z"
   }
 }
