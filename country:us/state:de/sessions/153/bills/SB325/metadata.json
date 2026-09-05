@@ -330,6 +330,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:12Z"
       }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-09-03",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T09:16:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -393,6 +405,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143335&legislationTypeId=1&docTypeId=2&legislationName=SB325",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143335&legislationTypeId=1&docTypeId=2&legislationName=SB325",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SA 1 to SB 325",
       "links": [
         {
@@ -451,7 +478,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "The Laws of Delaware",
+      "citation": "Volume 85 Chapter 473",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "https://legis.delaware.gov/BillDetail?LegislationId=143335",
@@ -468,7 +504,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:12Z",
+    "logs_latest_update": "2026-09-05T09:16:32Z",
     "text_extraction_latest_update": "2026-07-21T19:10:55.725401Z"
   }
 }

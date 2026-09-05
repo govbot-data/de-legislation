@@ -122,6 +122,18 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:12Z"
       }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-09-03",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T09:16:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -198,6 +210,14 @@
       "organization_id": null
     },
     {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
+    },
+    {
       "name": "Sarah McBride",
       "classification": "primary",
       "entity_type": "person",
@@ -212,18 +232,25 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
       "organization_id": null
-    },
-    {
-      "name": "Nicole Poore",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
-      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143081&legislationTypeId=6&docTypeId=2&legislationName=HS2forHB94",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143081&legislationTypeId=6&docTypeId=2&legislationName=HS2forHB94",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "HA 1 to HS 2 for HB 94",
       "links": [
@@ -241,7 +268,16 @@
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "The Laws of Delaware",
+      "citation": "Volume 85 Chapter 471",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "https://legis.delaware.gov/BillDetail?LegislationId=143081",
@@ -259,7 +295,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:12Z",
+    "logs_latest_update": "2026-09-05T09:16:32Z",
     "text_extraction_latest_update": "2026-07-21T19:09:17.756771Z"
   }
 }
